@@ -22,7 +22,13 @@
 
 <br>
 
-[![@dinushasewandi_](https://img.icons8.com/fluency/48/000000/instagram-new.png "@dinushasewandi_")](https://www.instagram.com/dinushasewwandi_/#) [![@AnushkaWijegoonawardana97](https://web.facebook.com/profile.php?id=100086070984480"@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+[![@dinushasewwandi_](https://img.icons8.com/fluency/48/000000/instagram-new.png "@dinushasewwandi_")](https://www.instagram.com/dinushasewwandi_/)
+[![@DinushaS14](https://img.icons8.com/fluency/48/000000/facebook-new.png "@DinushaS14")](https://web.facebook.com/profile.php?id=100086070984480)
+[![@DinushaSewwandi](https://img.icons8.com/fluency/48/000000/linkedin.png "@DinushaSewwandi")](https://www.linkedin.com/in/dinusha-sewwandi-377b5a252/)
+[![@DinushaS14](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@DinushaS14")](https://twitter.com/DinushaS14)
+[![@0702420800](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0702420800")](tel:0702420800)
+[![@sdinusha902@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@sdinusha902@gmail.com")](mailto:sdinusha902@gmail.com)
+
 
 <br>
 
