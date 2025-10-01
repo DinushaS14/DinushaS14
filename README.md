@@ -33,21 +33,32 @@
 
 ## What I am Good at 🧑‍💻 :
 
-<br>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"
-<img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP"
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
-<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Programming"/>
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
 
-<img src="https://img.icons8.com/color/48/000000/linux.png" alt="Kali Linux"/>
-<img src="https://img.icons8.com/external-flat-juicy-fish/48/external-terminal-coding-and-development-flat-flat-juicy-fish.png" alt="Metasploit"/>
-<img src="https://img.icons8.com/ios-filled/48/000000/wireshark.png" alt="Wireshark"/>
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-bug-hunting-computer-programming-flaticons-lineal-color-flat-icons.png" alt="Burp Suite"/>
-<img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/48/external-network-network-technology-wanicon-lineal-color-wanicon.png" alt="Nmap"/>
+<p align="center">
+  <!-- Row 1 -->
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP"/>
+</p>
+
+<p align="center">
+  <!-- Row 2 -->
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Programming"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Kali Linux"/>
+</p>
+
+<p align="center">
+  <!-- Row 3 -->
+  <img src="https://img.icons8.com/external-flat-juicy-fish/48/external-terminal-coding-and-development-flat-flat-juicy-fish.png" alt="Metasploit"/>
+  <img src="https://img.icons8.com/ios-filled/48/000000/wireshark.png" alt="Wireshark"/>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-bug-hunting-computer-programming-flaticons-lineal-color-flat-icons.png" alt="Burp Suite"/>
+  <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/48/external-network-network-technology-wanicon-lineal-color-wanicon.png" alt="Nmap"/>
+</p>
+
 
 
 <br>
