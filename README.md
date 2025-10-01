@@ -36,9 +36,9 @@
 <br>
 
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
-<img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"
+<img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP"
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
 <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Programming"/>
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
