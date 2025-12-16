@@ -45,39 +45,11 @@
 
 <p align="center">
   <!-- Row 2 -->
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Programming"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Kali Linux"/>
-</p>
-
-<p align="center">
-  <!-- Row 3 -->
-<p align="center">
-  <!-- Metasploit -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
-       height="48" alt="Metasploit" />
-
-  <!-- Wireshark -->
-  <img src="https://skillicons.dev/icons?i=wireshark"
-       height="48" alt="Wireshark" />
-
-  <!-- Burp Suite -->
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/burpsuite.svg"
-       height="48" style="filter: invert(1);" alt="Burp Suite" />
-
-  <!-- Nmap -->
-  <img src="https://skillicons.dev/icons?i=nmap"
-       height="48" alt="Nmap" />
-</p>
-
-</p>
-
-</p>
-
-</p>
-
-
+ <p align="center">
+  <img src="https://img.icons8.com/color/48/console.png" alt="Metasploit"/>
+  <img src="https://img.icons8.com/color/48/wireshark.png" alt="Wireshark"/>
+  <img src="https://img.icons8.com/color/48/bug.png" alt="Burp Suite"/>
+  <img src="https://img.icons8.com/color/48/network.png" alt="Nmap"/>
 </p>
 
 
