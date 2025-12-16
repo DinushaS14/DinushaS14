@@ -53,11 +53,13 @@
 
 <p align="center">
   <!-- Row 3 -->
- <p align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=bash" alt="Metasploit" />
   <img src="https://skillicons.dev/icons?i=wireshark" alt="Wireshark" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" height="48" alt="Burp Suite" />
   <img src="https://skillicons.dev/icons?i=nmap" alt="Nmap" />
+</p>
+
 </p>
 
 </p>
