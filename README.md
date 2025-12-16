@@ -53,17 +53,13 @@
 
 <p align="center">
   <!-- Row 3 -->
-  <img src="https://img.icons8.com/external-flat-juicy-fish/48/external-terminal-coding-and-development-flat-flat-juicy-fish.png" 
-     alt="Terminal / Metasploit" />
+  <p align="center">
+  <img src="https://img.icons8.com/external-flat-juicy-fish/48/external-terminal-coding-and-development-flat-flat-juicy-fish.png" alt="Metasploit" style="margin: 0 8px;" />
+  <img src="https://img.icons8.com/ios-filled/48/000000/wireshark.png" alt="Wireshark" style="margin: 0 8px;" />
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-bug-hunting-computer-programming-flaticons-lineal-color-flat-icons.png" alt="Burp Suite" style="margin: 0 8px;" />
+  <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/48/external-network-network-technology-wanicon-lineal-color-wanicon.png" alt="Nmap" style="margin: 0 8px;" />
+</p>
 
-<img src="https://img.icons8.com/ios-filled/48/000000/wireshark.png" 
-     alt="Wireshark" />
-
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-bug-hunting-computer-programming-flaticons-lineal-color-flat-icons.png" 
-     alt="Burp Suite" />
-
-<img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/48/external-network-network-technology-wanicon-lineal-color-wanicon.png" 
-     alt="Nmap" />
 
 </p>
 
