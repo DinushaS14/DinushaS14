@@ -51,16 +51,16 @@
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Kali Linux"/>
 </p>
 
-<p align="center">
+
   <!-- Row 3-->
 <p align="center">
-  <img src="https://academy.hackthebox.com/course/preview/using-the-metasploit-framework" alt="Metasploit"/>
+  <p align="center">
+  <img src="https://img.icons8.com/color/48/console.png" alt="Metasploit"/>
   <img src="https://img.icons8.com/color/48/wireshark.png" alt="Wireshark"/>
   <img src="https://img.icons8.com/color/48/bug.png" alt="Burp Suite"/>
   <img src="https://img.icons8.com/color/48/network.png" alt="Nmap"/>
 </p>
 
-</p>
 
 
 
