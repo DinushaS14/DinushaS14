@@ -45,11 +45,10 @@
 
 <p align="center">
   <!-- Row 2 -->
- <p align="center">
-  <img src="https://img.icons8.com/color/48/console.png" alt="Metasploit"/>
-  <img src="https://img.icons8.com/color/48/wireshark.png" alt="Wireshark"/>
-  <img src="https://img.icons8.com/color/48/bug.png" alt="Burp Suite"/>
-  <img src="https://img.icons8.com/color/48/network.png" alt="Nmap"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Programming"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Kali Linux"/>
 </p>
 
 
