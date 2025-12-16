@@ -53,11 +53,13 @@
 
 <p align="center">
   <!-- Row 3 -->
-  <p align="center">
-  <img src="https://img.icons8.com/external-flat-juicy-fish/48/external-terminal-coding-and-development-flat-flat-juicy-fish.png" alt="Metasploit" style="margin: 0 8px;" />
-  <img src="https://img.icons8.com/ios-filled/48/000000/wireshark.png" alt="Wireshark" style="margin: 0 8px;" />
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-bug-hunting-computer-programming-flaticons-lineal-color-flat-icons.png" alt="Burp Suite" style="margin: 0 8px;" />
-  <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/48/external-network-network-technology-wanicon-lineal-color-wanicon.png" alt="Nmap" style="margin: 0 8px;" />
+ <p align="center">
+  <img src="https://skillicons.dev/icons?i=bash" alt="Metasploit" />
+  <img src="https://skillicons.dev/icons?i=wireshark" alt="Wireshark" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" height="48" alt="Burp Suite" />
+  <img src="https://skillicons.dev/icons?i=nmap" alt="Nmap" />
+</p>
+
 </p>
 
 
